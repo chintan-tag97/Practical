@@ -1,0 +1,37 @@
+1. Write a TypeScript program that declares a variable 'name' and assigns it a string value. Also declare a variable 'age' and assign it a number value. Finally print the values of name and age (using template literals).
+2. Write a TypeScript program that declares variables using let, const, and var. Then, describe how each declaration type behaves with respect to scoping and mutability.
+3. Write a TypeScript program that declares variables of the following data types: number, string, boolean, and undefined. Assign values to them and perform basic operations.
+   (for eg. //Addition //String concatenation //Logical operation)
+4. Write a TypeScript program that declares a variable as a number and then tries to assign a string to it to see type checking in action.
+4. Write a TypeScript program that declares a variable as a number and then tries to assign a string to it to see type checking in action.
+6. Write a TypeScript program that converts a variable of one type to another using type assertions and type conversion from number-to-string and string-to-number.
+7. Write a TypeScript program that creates type aliases for objects. Use them to define variables and explain how they improve code readability.
+   A. Define a type alias for a 'user' object (props: id, name, mobile, age, email)[should be appropriate prop-types]
+   B. Create a variable using the type aliases (for above user type alias)
+8. Write a TypeScript program that declares an array of a specific data type.
+   It will demonstrates common array operations like adding elements, removing elements, and iterating through the array and find index of "Blue" (use appropriate methods).
+   (sample string array: ["Red", "Green", "Blue", "Orange"])
+9. Write a TypeScript program that defines an enumeration 'Color' with values 'Red', 'Green', 'White' and Blue. Create a variable 'selectedColor' of type 'Color' and assign it one of the enumeration values.
+10.Write a TypeScript program that declares a variable 'isNull' and assigns it null. You should also declare a variable called 'isUndefined' and assign it an undefined value and check log what it prints.
+
+
+
+
+
+
+
+11Write a TypeScript program to merge two array
+12. Write a TypeScript program to merge two array of object [props: id,name,mobile]
+13. Write a TypeScript program to add new object in array [props: id,name,mobile] (use spread operator)
+14. Write a TypeScript program to demonstrate the use of template literals.
+15. Write a TypeScript program to demonstrate the callback function.
+16. Write a TypeScript program to demonstrate filter() and find() difference (take 5-10 records with this props: id, name, age, salary, mobile)
+17. Write a TypeScript program to declaare interface of employee and use that interface type in required places and then print SUM of 'salary
+   (take 5-10 records with this props: id, name, age, salary, mobile)
+18. Write a TypeScript program to to sort array (take 5-10 records with this props: id, name, age, salary, mobile)
+   18.1. sort with 'name'
+   18.2  sort with 'age'
+
+
+
+
