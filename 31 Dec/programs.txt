@@ -1,0 +1,36 @@
+1.Write a JavaScript program to convert a string into upper-case
+2.Write a JavaScript program to convert a string into title-case (capitalize the first letter of each word).
+3.Write a JavaScript program to convert a string into lower-case
+4.Write a JavaScript program to reverse string (consider this string:- "Good Morning")
+5.Write a JavaScript program to convert string to number (consider this string:- "123")
+6.Write a JavaScript program to convert number to string (consider this number:- 9951)
+7.Write a JavaScript program to get the current date.
+8.Write a JavaScript program to check Typeof variable which we pass through param in function (whether it is string/number/array/object)
+9.Write a JavaScript program to find the given number is odd or even
+10.Write a JavaScript program to swap 2 values (with two approaches: with and without 3rd variable)
+11.Write a JavaScript program to find no. of items inside a array (consider this array:-[1,2,3,5,6,7,8,9,10])
+12.Write a JavaScript program to get SUM of all items in array (consider this array:-[1,2,3,5,6,7])
+13.Write a JavaScript program to remove repeated number from array (consider this array:-[1,2,1,5,6,7])
+14.Write a JavaScript function to split a string with "," and convert it into an array of words. (consider this string:-"Hello, Good Morning, How are you?,")
+15.Write a JavaScript program to add value at first and last in array.
+16.Write a JavaScript program to remove first and last element from array
+17.Write a JavaScript program to add and remove element in array using splice() method.
+18.Write a JavaScript program to demonstrate slice() method of array. (consider this array:-[1,2,3,4,5,6,7]) =>  Output should be=>[3,4,6]
+19.Write a JavaScript program to add object in array. (consider this properties: id, name, email)
+//20.Write a JavaScript program to print SUM of 'salary' (take 5-10 records with this props: id, name, age, salary, mobile)
+[{id: 1, name:'abhi',age:20,salary:30000,mobile:1231231231},{},{}]
+//21.Write a JavaScript program to filter all data which have age greeter then 25 (take 5-10 records with this props: id, name, age, salary, mobile
+//22.Write a JavaScript program to demonstrate forEach() loop and print name in console (take 5-10 records with this props: id, name, age, salary, mobile)
+23.Write a JavaScript program to print obj in console.log() with given properties (id, name, age, salary, mobile)
+24.Write a JavaScript program to add new property in existing object
+25.Write a JavaScript program to delete property from object
+26.Write a JavaScript program to check whether the property is exist in object or not
+27.Write a JavaScript program to reload the window on button click
+28.Write a JavaScript program to toggle button color on click (RED/GREEN wise-versa) [using if condition]
+29.Write a JavaScript program to open-up confirmation-pop-up on button click and if confirmed show alert with "Success" text (RED/GREEN wise-versa)
+30.Write a JavaScript program to show alert() when we hover on button
+//31.Write a JavaScript program to demonstrate ternary condition (take any boolean flag) [same 28 ques with ternary operator]
+32.Write a JavaScript program to generate random number (from 1-to-100)
+33. Write a JavaScript program to add bonus of 5000  in salary for every employee.
+consider below array:
+employees = [ { name: "John", salary: 50000 }, { name: "Jane", salary: 60000 }, { name: "Mike", salary: 45000 }, { name: "Sarah", salary: 70000 } ]
